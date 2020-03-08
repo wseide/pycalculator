@@ -9,3 +9,4 @@
 * Square Root
 * Square
 
+### Test CSV for addition, subtraction, multiplication, division, square root, square added
