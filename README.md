@@ -11,4 +11,4 @@
 
 ### Test CSV for addition, subtraction, multiplication, division, square root, square added
 
-![screenshot](testsuccess.jpeg "Successful Test")
+![screenshot](testsuccess.JPG "Successful Test")
